@@ -1,0 +1,252 @@
+[
+  {
+    "id_producto": "PROD001",
+    "sku": "FRB-001",
+    "nombre": "Filtro de aceite genérico TYPE-1",
+    "descripcion": "Filtro de aceite tipo genérico de alta calidad para motores de gasolina y diesel. Diseñado para retener impurezas y mantener el aceite limpio, protegiendo los componentes internos del motor.",
+    "especificaciones": "Dimensiones: 75mm diámetro exterior, 70mm altura. Tipo: cartucho de papel. Filtración: 10 micras. Presión máx: 150 PSI.",
+    "compatibilidad": "Versátil para autos japoneses, americanos y europeos. Modelos comunes: Honda Civic, Toyota Corolla, Nissan Sentra, Ford Focus, Chevrolet Aveo.",
+    "categoria": "Filtros",
+    "precio_venta": 89.00
+  },
+  {
+    "id_producto": "PROD002",
+    "sku": "FRB-002",
+    "nombre": "Filtro de aire TYPE-1",
+    "descripcion": "Filtro de aire tipo panel para motor. Protege el motor de partículas de polvo y contaminantes externos. Mejora el rendimiento del motor y reduce el consumo de combustible.",
+    "especificaciones": "Dimensiones: 230x145x45mm. Tipo: panel de fibra sintética. Flujo aire: 350 CFM.",
+    "compatibilidad": "Compatible con vehículos sedan, hatchback y modelos japoneses y americanos.",
+    "categoria": "Filtros",
+    "precio_venta": 75.00
+  },
+  {
+    "id_producto": "PROD003",
+    "sku": "FRB-003",
+    "nombre": "Filtro de combustible TYPE-1",
+    "descripcion": "Filtro de combustible de alta eficiencia para sistemas de inyección. Retiene partículas que pueden obstruir los inyectores y dañar el sistema de combustible.",
+    "especificaciones": "Tipo: inline. Filtración: 5 micras. Caudal: 100 L/h.",
+    "compatibilidad": "Sistemas de inyección multipunto y mono punto. Mayoría de vehículos 2000-2020.",
+    "categoria": "Filtros",
+    "precio_venta": 110.00
+  },
+  {
+    "id_producto": "PROD004",
+    "sku": "FRB-004",
+    "nombre": "Bujía de ignición platino",
+    "descripcion": "Bujía de ignición con electrodo de platino central. Mayor durabilidad y mejor chispa para combustión óptima del combustible. Mejora el rendimiento y reduce emisiones.",
+    "especificaciones": "Electrode gap: 0.044 inch. Resistente calor: 2500°F. Voltaje requ: 25000V.",
+    "compatibilidad": "Vehículos con motor de 4 y 6 cilindros. Modelos Honda, Toyota, Nissan, general.",
+    "categoria": "Ignición",
+    "precio_venta": 55.00
+  },
+  {
+    "id_producto": "PROD005",
+    "sku": "FRB-005",
+    "nombre": "Bujía de iridio premium",
+    "descripcion": "Bujía de iridio premium con electrodo central de iridio. Mayor eficiencia de combustión, mayor vida útil y mejor arranque en frío. Rendimiento superior al platino.",
+    "especificaciones": "Gap: 0.044 inch. Temperatura trabajo: hasta 2500°F. Vida útil: 100000 km.",
+    "compatibilidad": "Vehículos de alta gama: BMW, Mercedes, Audi, Toyota Camry, Honda Accord.",
+    "categoria": "Ignición",
+    "precio_venta": 95.00
+  },
+  {
+    "id_producto": "PROD006",
+    "sku": "FRB-006",
+    "nombre": "Cable de bujía juegos 4pzs",
+    "descripcion": "Juego completo de cables de bujía (4 piezas) con resistencia integrada para eliminar interferencias electromagnéticas. Cable de alta tensión con aislamiento de silicón.",
+    "especificaciones": "Longitud cables: 45-55 cm. Resistencia: 10K ohm por metro. Material: silicón.",
+    "compatibilidad": "Motores de 4 cilindros. Modelos populares: Toyota, Honda, Nissan, Mazda.",
+    "categoria": "Ignición",
+    "precio_venta": 250.00
+  },
+  {
+    "id_producto": "PROD007",
+    "sku": "FRB-007",
+    "nombre": "Pastillas de freno Delanteras",
+    "descripcion": "Pastillas de freno para eje delantero con indicador de desgaste. Material orgánico de bajo ruido. Incluye sensores de desgaste y hardware de instalación.",
+    "especificaciones": "Espesor: 15mm. Tipo: semi-metálico. Nivel ruido: bajo. Certificado: DOT.",
+    "compatibilidad": "Eje delantero sedan y coupe. Modelos: Honda Civic, Toyota Corolla, Nissan Sentra.",
+    "categoria": "Frenos",
+    "precio_venta": 380.00
+  },
+  {
+    "id_producto": "PROD008",
+    "sku": "FRB-008",
+    "nombre": "Pastillas de freno Traseras",
+    "descripcion": "Pastillas de freno para eje trasero con diseño silencioso. Material cerámico para menor desgaste del disco. Indicador acústico de desgaste.",
+    "especificaciones": "Espesor: 12mm. Tipo: cerámico. Ruido: prácticamente nulo.",
+    "compatibilidad": "Eje trasero vehículos medianos y grandes. Ford Focus, Chevrolet Malibu.",
+    "categoria": "Frenos",
+    "precio_venta": 320.00
+  },
+  {
+    "id_producto": "PROD009",
+    "sku": "FRB-009",
+    "nombre": "Discos de freno delanteros",
+    "descripcion": "Discos de freno ventilados delanteros frente a discos perforados para mejor disipación de calor. Incluye tornillos de montaje.",
+    "especificaciones": "Diámetro: 280mm. Espesor: 24mm. Tipo: ventilado perforado. Material: hierro fundido.",
+    "compatibilidad": "Vehículos medianos y grandes. Honda Accord, Toyota Camry, Nissan Altima.",
+    "categoria": "Frenos",
+    "precio_venta": 450.00
+  },
+  {
+    "id_producto": "PROD010",
+    "sku": "FRB-010",
+    "nombre": "Tambores de freno traseros",
+    "descripcion": "Tambores de freno traseros con zapata de freno integrada. Sistema de autoajuste para mantenimiento mínimo.",
+    "especificaciones": "Diámetro: 200mm. Ancho: 45mm. Tipo: autoajustable.",
+    "compatibilidad": "Vehículos compactos y subcompactos. Honda Fit, Toyota Yaris, Nissan March.",
+    "categoria": "Frenos",
+    "precio_venta": 400.00
+  },
+  {
+    "id_producto": "PROD011",
+    "sku": "FRB-011",
+    "nombre": "Bandas de distribución",
+    "descripcion": "Banda de distribución de alta resistencia para motores OHC. Material de caucho reforzado con fibras de vidrio.",
+    "especificaciones": "Dientes: 121. Ancho: 20mm. Paso: 5mm.",
+    "compatibilidad": "Motores de 4 cilindros. Modelos Honda, Toyota, Nissan comunes.",
+    "categoria": "Distribución",
+    "precio_venta": 550.00
+  },
+  {
+    "id_producto": "PROD012",
+    "sku": "FRB-012",
+    "nombre": "Cadenas de timing",
+    "descripcion": "Cadena de timing para motores de alto rendimiento. Acero forjado con tratamiento térmico. Incluye guías y tensores.",
+    "especificaciones": "Eslabones: 134. Material: acero templado. Lubricación: integrada.",
+    "compatibilidad": "Motores V6 y V8. Ford, GM, Chrysler.",
+    "categoria": "Distribución",
+    "precio_venta": 680.00
+  },
+  {
+    "id_producto": "PROD013",
+    "sku": "FRB-013",
+    "nombre": "Tensor de banda",
+    "descripcion": "Tensor automático de banda de distribución. Resorte de carga para tensión constante. Rodamiento sellado.",
+    "especificaciones": "Diámetro: 55mm. Fuerza: 50N. Tipo: automático.",
+    "compatibilidad": "Sistemas de distribución comunes. Universal.",
+    "categoria": "Distribución",
+    "precio_venta": 175.00
+  },
+  {
+    "id_producto": "PROD014",
+    "sku": "FRB-014",
+    "nombre": "Bomba de agua",
+    "descripcion": "Bomba de agua centrifuga para sistema de refrigeración del motor. Impulsor de plástico de ingeniería de alto flujo. Juntas incluidas.",
+    "especificaciones": "Flujo: 80 L/min. Presión: 1.5 bar. Material: plástico de ingeniería.",
+    "compatibilidad": "Motores de 4 y 6 cilindros. Toyota, Honda, Nissan, Ford.",
+    "categoria": "Enfriamiento",
+    "precio_venta": 650.00
+  },
+  {
+    "id_producto": "PROD015",
+    "sku": "FRB-015",
+    "nombre": "Termostato",
+    "descripcion": "Termostato de cera con válvula de temperatura. Abre a 82°C para regulación óptima de temperatura del motor. Incluye junta.",
+    "especificaciones": "Temperatura apertura: 82°C. Diámetro: 35mm. Material: latón y cera.",
+    "compatibilidad": "Universal para motores de gasolina y diesel.",
+    "categoria": "Enfriamiento",
+    "precio_venta": 135.00
+  },
+  {
+    "id_producto": "PROD016",
+    "sku": "FRB-016",
+    "nombre": "Radiador",
+    "descripcion": "Radiador de aluminio con depósito integrado. Núcleo de refrigeración de alta eficiencia. Incluye tapa a presión.",
+    "especificaciones": "Dimensiones: 600x400x25mm. Material: aluminio. Capacidad: 8 litros.",
+    "compatibilidad": "Vehículos medianos y grandes. Universal.",
+    "categoria": "Enfriamiento",
+    "precio_venta": 1100.00
+  },
+  {
+    "id_producto": "PROD017",
+    "sku": "FRB-017",
+    "nombre": "Manguera radiator superior",
+    "descripcion": "Manguera superior del radiador de caucho reforzado. Resistente a presión y temperatura. Conectores de aluminio.",
+    "especificaciones": "Longitud: 40cm. Diámetro interno: 32mm. Presión máx: 4 bar.",
+    "compatibilidad": "Lado superior del radiador. Universal.",
+    "categoria": "Enfriamiento",
+    "precio_venta": 195.00
+  },
+  {
+    "id_producto": "PROD018",
+    "sku": "FRB-018",
+    "nombre": "Manguera radiator inferior",
+    "descripcion": "Manguera inferior del radiador de caucho reforzado. Resistente al desgaste y temperatura. Conectores de aluminio.",
+    "especificaciones": "Longitud: 35cm. Diámetro interno: 28mm. Presión máx: 4 bar.",
+    "compatibilidad": "Lado inferior del radiador. Universal.",
+    "categoria": "Enfriamiento",
+    "precio_venta": 185.00
+  },
+  {
+    "id_producto": "PROD019",
+    "sku": "FRB-019",
+    "nombre": "Batería 12V 60Ah",
+    "descripcion": "Batería de automóvil 12V 60Ah tipo estándar. Placas de calcio para mínima autodescarga. Capacidad de arranque en frío: 540 CCA.",
+    "especificaciones": "Voltaje: 12V. Capacidad: 60Ah. Arranque: 540 CCA. Polaridad: positivo derecha.",
+    "compatibilidad": "Vehículos compactos y medianos. Honda Civic, Toyota Corolla.",
+    "categoria": "Eléctricos",
+    "precio_venta": 1200.00
+  },
+  {
+    "id_producto": "PROD020",
+    "sku": "FRB-020",
+    "nombre": "Batería 12V 75Ah",
+    "descripcion": "Batería de automóvil 12V 75Ah de alta capacidad. Placas de calcio con tecnología VRLA. Arranque potente en clima frío.",
+    "especificaciones": "Voltaje: 12V. Capacidad: 75Ah. Arranque: 700 CCA. Tipo: libre mantenimiento.",
+    "compatibilidad": "Vehículos medianos y grandes. Ford Focus, Chevrolet Malibu.",
+    "categoria": "Eléctricos",
+    "precio_venta": 1450.00
+  },
+  {
+    "id_producto": "PROD021",
+    "sku": "FRB-021",
+    "nombre": "Alternador",
+    "descripcion": "Alternador de 12V 100A de alta eficiencia. Regulador integrado de voltaje. Incluye polea y connector.",
+    "especificaciones": "Voltaje: 12V. Amperaje: 100A. RPM máx: 18000. Rodamiento sellado.",
+    "compatibilidad": "Vehículos con motor de 4 y 6 cilindros. Universal.",
+    "categoria": "Eléctricos",
+    "precio_venta": 2400.00
+  },
+  {
+    "id_producto": "PROD022",
+    "sku": "FRB-022",
+    "nombre": "Marcha/Arrancador",
+    "descripcion": "Motor de arranque/reductor 12V 1.2kW. Piñón de plástico para protección del motor. Solenoide incorporado.",
+    "especificaciones": "Voltaje: 12V. Potencia: 1.2kW. Dientes: 9. Tipo: reducción.",
+    "compatibilidad": "Motores de 4 y 6 cilindros. Universal.",
+    "categoria": "Eléctricos",
+    "precio_venta": 1950.00
+  },
+  {
+    "id_producto": "PROD023",
+    "sku": "FRB-023",
+    "nombre": "Bobina de ignición",
+    "descripcion": "Bobina de ignición tipo pencil. Produce alta tensión para bujías. Construida con materiales de alta temperatura.",
+    "especificaciones": "Voltaje salida: 40kV. Resistencia: 0.5 ohm primario. Temperatura máx: 120°C.",
+    "compatibilidad": "Sistemas de ignición DIS-common en motores Toyota, Honda.",
+    "categoria": "Ignición",
+    "precio_venta": 560.00
+  },
+  {
+    "id_producto": "PROD024",
+    "sku": "FRB-024",
+    "nombre": "Inyector de combustible",
+    "descripcion": "Inyector de combustible de alta precisión. Atomización de 6 agujeros. Caudal: 180 cc/min a 3 bar.",
+    "especificaciones": "Tipo: multipunto. Flujo: 180 cc/min. Ohms: 12-14. Conector: USCAR.",
+    "compatibilidad": "Sistemas de inyección mpi. Universal.",
+    "categoria": "Combustible",
+    "precio_venta": 890.00
+  },
+  {
+    "id_producto": "PROD025",
+    "sku": "FRB-025",
+    "nombre": "Bomba de combustible",
+    "descripcion": "Bomba de combustible eléctrica de tanque. Integrada con medidor de nivel. Presión de salida: 3-4 bar.",
+    "especificaciones": "Voltaje: 12V. Presión: 3.5 bar. Flujo: 100 L/h. Tipo: intank.",
+    "compatibilidad": "Vehículos con tanque interno de combustible. Universal.",
+    "categoria": "Combustible",
+    "precio_venta": 1150.00
+  }
+]
